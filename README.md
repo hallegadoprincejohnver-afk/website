@@ -25,7 +25,7 @@ Vapi integration). One-time setup:
 
 1. Put your ElevenLabs **secret** API key in a local `.env` file (already gitignored):
    ```
-   ELEVENLABS_API_KEY=sk_e287191faa6d1ae764c43f49c73cf211f626658bb2aec85e
+   ELEVENLABS_API_KEY=
    ```
    ⚠️ If this key has ever been pasted into a chat, doc, or screenshot, treat it as compromised
    and rotate it in the ElevenLabs dashboard before using it here.
