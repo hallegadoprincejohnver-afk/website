@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: 2Thatamarketing Project Final ",
+  "description": "A single-page cinematic marketing website for Thatamarketing sand, gravel, and construction supplies.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
